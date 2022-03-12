@@ -1,0 +1,119 @@
+#mainPane {
+    -fx-background-image: url("/resources/images/menuBG.jpg");
+    -fx-background-size: 1200px 800px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+
+.button{
+    /*-fx-background-image: url('/imageCss/button.png');*/
+    -fx-background-size: 270px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    /*-fx-background-color:*/
+    /*        #3c7fb1,*/
+    /*        linear-gradient(#fafdfe, #e8f5fc),*/
+    /*        linear-gradient(#eaf6fd 0%, #d9f0fc 49%, #bee6fd 50%, #a7d9f5 100%);*/
+    /*-fx-background-insets: 0,1,2;*/
+    /*-fx-background-radius: 3,2,1;*/
+    /*-fx-padding: 3 30 3 30;*/
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 15;
+    /*-fx-font-size: 14px;*/
+}
+#buttonStart{
+    /*-fx-background-image: url('/imageCss/button.png');*/
+    -fx-background-size: 270px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-border-color: black;
+}
+
+#buttonNewGame{
+    /*-fx-background-image: url('/imageCss/button.png');*/
+    -fx-background-size: 270px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-border-color: black;
+}
+
+#buttonSettings {
+    /*-fx-background-image: url('/imageCss/button.png');*/
+    -fx-background-size: 270px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-border-color: black;
+
+}
+
+#paneContainsBox {
+    /*-fx-background-image: url('/imageCss/pane.png');*/
+    -fx-background-size: 1200px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-border-color: black;
+
+}
+
+#paneContainsSetName {
+    /*-fx-background-image: url('/imageCss/pane.png');*/
+    -fx-background-size: 1200px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-border-color: black;
+
+}
+
+#btOnline {
+    /*-fx-background-image: url('/imageCss/button.png');*/
+    -fx-background-size: 270px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-border-color: black;
+
+}
+
+#buttonQuit {
+    /*-fx-background-image: url('/imageCss/button.png');*/
+    -fx-background-size: 270px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-border-color: black;
+
+}
+
+#btSetName {
+    /*-fx-background-image: url('/imageCss/button.png');*/
+    -fx-background-size: 270px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-border-color: black;
+
+}
+
+
+#buttonInfo {
+    /*-fx-background-image: url('/imageCss/button.png');*/
+    -fx-background-size: 155px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-border-color: black;
+}
+
+#btnLeaderBoard{
+    -fx-background-size: 270px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-border-color: black;
+
+}
+
+#backButton1 {
+    /*-fx-background-image: url('/imageCss/button.png');*/
+    -fx-background-size: 270px;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-border-color: black;
+}
