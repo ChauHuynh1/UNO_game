@@ -26,7 +26,7 @@ At the start of the gameBoard, each player has 7 cards. The pile of the other ca
 * **User-friendly Interface**: the gameBoard was built with standard and accessible User Interface, easy rules and clear instructions.
 * **Networking**: Players are to play together via a multi-computer network.
 # Installation
-* **Open the project using Intellij IDEA 2019.
+* Open the project using Intellij IDEA 2019.
 * Setup the JDK to version 11.
 ## Add the JavaFX library
 * From the main menu, select File | Project Structure or Ctrl+Shift+Alt+S on the toolbar.
